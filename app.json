@@ -1,12 +1,12 @@
 {
-    "name":"debianoku",
-    "description":"debianoku",
-    "repository":"https://github.com/bugbounted2022/debianoku",
-    "stack":"container",
-    "env":{
-        "NGROK_APIKEY":{
-            "description":"ngrok authtoken"
-        }
-
-    }
-}
+    "name": "debianoku",
+    "description": "",
+    "repository": "https://github.com/bugbounted2022/debianoku",
+    "stack": "container",
+  "env": {
+    "NGROK_APIKEY": {
+      "description": "ngrok authtoken.",
+      "required":true
+      }
+    },
+  }
