@@ -8,5 +8,5 @@
     "description": "ngrok authtoken.",
     "required":true
      }
-   },
+   }
 }
