@@ -1,6 +1,6 @@
 {
     "name":"debianoku",
-    "description":"",
+    "description":"debianoku",
     "repository":"https://github.com/bugbounted2022/debianoku",
     "stack":"container",
     "env":{
