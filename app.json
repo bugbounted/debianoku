@@ -3,10 +3,10 @@
     "description": "",
     "repository": "https://github.com/bugbounted2022/debianoku",
     "stack": "container",
-  "env": {
+    "env": {
     "NGROK_APIKEY": {
-      "description": "ngrok authtoken.",
-      "required":true
-      }
-    },
-  }
+    "description": "ngrok authtoken.",
+    "required":true
+     }
+   },
+}
